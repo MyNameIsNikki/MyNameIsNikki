@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi there, I'm Nikita, but for friends I'm Nikki<br><br>- 🎂 I'm 19 years old<br>- 🌱 I’m currently learning [Python / JavaScript | TypeScript / C++ / Go] <br>- 🤝 I'm a beginner enthusiast who loves to collaborate and interact with the IT community<br>- 📫 How to reach me: [Telegram: @Aley_Nikki / VK: @aley.nikki / Instagram: @aley.nikki]<br>- ⚡Fun fact: I started coding because I thought it was easy.<br>     Spoiler: It wasn’t. But I stayed for the "Aha!" moments.
+👋 Hi there, I'm Nikita, but for friends I'm Nikki<br><br>- 🎂 I'm 20 years old<br>- 🌱 I’m currently learning [Python / JavaScript | TypeScript / C++ / Go] <br>- 🤝 I'm a beginner enthusiast who loves to collaborate and interact with the IT community<br>- 📫 How to reach me: [Telegram: @Aley_Nikki / VK: @aley.nikki / Instagram: @aley.nikki]<br>- ⚡Fun fact: I started coding because I thought it was easy.<br>     Spoiler: It wasn’t. But I stayed for the "Aha!" moments.
 
 
 ## 🌐 Socials:
