@@ -1,12 +1,18 @@
 # Nikki | Full-Stack software engineer
 
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlsBTq0MZrIZ0mSxQsbkbLYPtbo1JFEtcWSfuO__xNl5LiV3IRx9752WvY&s=10" width="180" align="right" alt="Profile Image" />
+
 I am a software engineer focused on developing scalable full-stack applications and autonomous developer tooling. My primary expertise lies in building robust web applications, microservice architectures, and machine learning pipelines.
 
 **Contact & Links:**
-* **Email:** aleynikovnv@mail.ru
-* **Telegram:** [@Aley_Nikki](https://t.me/Nikki_Commercial)
+- **Email:** aleynikovnv@mail.ru
+- **Telegram:** [@Aley_Nikki](https://t.me/Nikki_Commercial)
 
-## Technical Expertise
+<br clear="both"/>
+
+---
+
+## Technical expertise
 
 ### Frontend development
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -24,14 +30,16 @@ I am a software engineer focused on developing scalable full-stack applications 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-## Featured Projects
+---
 
-* **[oc-pilot](https://github.com/MyNameIsNikki/oc-pilot)**  
+## Featured projects
+
+- **[oc-pilot](https://github.com/MyNameIsNikki/oc-pilot)**  
   An open-source TypeScript ESM CLI utility and MCP server for Node.js 22+. Acts as a deterministic quality and security gate for AI code generation workflows. Includes CI/CD automation with GitHub Actions and SLSA provenance attestation.
-* **[NikkiNet](https://github.com/MyNameIsNikki/NikkiNet)**  
+- **[NikkiNet](https://github.com/MyNameIsNikki/NikkiNet)**  
   A Python-based network utility designed for automated proxy management, ensuring secure, high-performance, and reliable routing. Built with an emphasis on low latency and connection stability.
-* **Task automation microservices**  
-  Client-server web application architecture designed to automate tasks using a microservices approach, developed as part of an R&D initiative at SFEDU.
+
+---
 
 ## GitHub activity
 
