@@ -1,6 +1,8 @@
-# Nikki | Full-Stack software engineer
+# Nikki | Full-Stack Software Engineer
 
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlsBTq0MZrIZ0mSxQsbkbLYPtbo1JFEtcWSfuO__xNl5LiV3IRx9752WvY&s=10" width="180" align="right" alt="Profile Image" />
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00FF00&vCenter=true&width=435&lines=%3E_+Full-Stack+Engineer;%3E_+Building+scalable+systems;%3E_+Python+%7C+TypeScript+%7C+Go)](https://git.io/typing-svg)
 
 I am a software engineer focused on developing scalable full-stack applications and autonomous developer tooling. My primary expertise lies in building robust web applications, microservice architectures, and machine learning pipelines.
 
@@ -12,9 +14,9 @@ I am a software engineer focused on developing scalable full-stack applications 
 
 ---
 
-## Technical expertise
+## Technical Expertise
 
-### Frontend development
+### Frontend Development
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -32,18 +34,26 @@ I am a software engineer focused on developing scalable full-stack applications 
 
 ---
 
-## Featured projects
+## Featured Projects
 
 - **[oc-pilot](https://github.com/MyNameIsNikki/oc-pilot)**  
-  An open-source TypeScript ESM CLI utility and MCP server for Node.js 22+. Acts as a deterministic quality and security gate for AI code generation workflows. Includes CI/CD automation with GitHub Actions and SLSA provenance attestation.
+  > An open-source TypeScript ESM CLI utility and MCP server for Node.js 22+. Acts as a deterministic quality and security gate for AI code generation workflows. Includes CI/CD automation with GitHub Actions and SLSA provenance attestation.
+
 - **[NikkiNet](https://github.com/MyNameIsNikki/NikkiNet)**  
-  A Python-based network utility designed for automated proxy management, ensuring secure, high-performance, and reliable routing. Built with an emphasis on low latency and connection stability.
+  > A Python-based network utility designed for automated proxy management, ensuring secure, high-performance, and reliable routing. Built with an emphasis on low latency and connection stability.
 
 ---
 
-## GitHub activity
+## GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=MyNameIsNikki&theme=dark&hide_border=true&include_all_commits=true&count_private=true&hide_rank=true&show_icons=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=MyNameIsNikki&theme=dark&hide_border=true&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.shion.dev/api?username=MyNameIsNikki&theme=dark&include_all_commits=true&count_private=true&hide_rank=true&show_icons=true&bg_color=0d1117&title_color=00FF00&text_color=c9d1d9&icon_color=00FF00&border_color=00FF00" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MyNameIsNikki&bg_color=0d1117&color=00FF00&line=00FF00&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MyNameIsNikki/MyNameIsNikki/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
 </p>
