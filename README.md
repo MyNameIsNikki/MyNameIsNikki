@@ -44,6 +44,6 @@ I am a software engineer focused on developing scalable full-stack applications 
 ## GitHub activity
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=MyNameIsNikki&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.shion.dev/api?username=MyNameIsNikki&theme=dark&hide_border=true&include_all_commits=true&count_private=true&hide_rank=true&show_icons=true" alt="GitHub Stats" />
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=MyNameIsNikki&theme=dark&hide_border=true&layout=compact" alt="Top Languages" />
 </p>
