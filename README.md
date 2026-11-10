@@ -51,9 +51,5 @@ I am a software engineer focused on developing scalable full-stack applications 
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MyNameIsNikki&bg_color=0d1117&color=00FF00&line=00FF00&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" />
-</p>
-
-<p align="center">
   <img src="https://raw.githubusercontent.com/MyNameIsNikki/MyNameIsNikki/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
 </p>
