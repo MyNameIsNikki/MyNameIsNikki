@@ -6,7 +6,7 @@ I am a software engineer focused on developing scalable full-stack applications 
 
 **Contact & Links:**
 - **Email:** aleynikovnv@mail.ru
-- **Telegram:** [@Aley_Nikki](https://t.me/Nikki_Commercial)
+- **Telegram:** [@Nikki_Commercial](https://t.me/Nikki_Commercial)
 
 <br clear="both"/>
 
